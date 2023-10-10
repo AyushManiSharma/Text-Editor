@@ -30,5 +30,10 @@ Contact me at ayushmanisharma@gmail.com.
 
 GitHub: [AyushManiSharma](https://github.com/AyushManiSharma)
 
-##Deployment
+## Deployment
 https://ayush-text-editor-66956e4b19d2.herokuapp.com/
+
+## Screenshots
+![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/af82f727-55ee-4d57-9d0e-e2cfe00bb473)
+![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/eeae8612-28d8-4088-bf54-7c86bc971da9)
+
