@@ -38,4 +38,6 @@ https://ayush-text-editor-66956e4b19d2.herokuapp.com/
 ![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/eeae8612-28d8-4088-bf54-7c86bc971da9)
 ![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/83a9a244-46d6-4f25-8b33-368cfead210e)
 ![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/6ef8b42f-edbf-45a7-a7ba-14a291e3a080)
+![image](https://github.com/AyushManiSharma/Text-Editor/assets/22526788/0eee8b8f-ae6a-4599-b773-24e03f34df29)
+
 
